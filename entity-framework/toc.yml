@@ -16,7 +16,7 @@
     - name: Use EF6 and EF Core in the same application
       href: efcore-and-ef6/side-by-side.md
   - name: Entity Framework Core
-    href: core/toc.yml
+    href: core/index.md
   - name: Entity Framework 6
     items:
     - name: Overview
